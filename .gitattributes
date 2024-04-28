@@ -1,4 +1,4 @@
 *.html linguist-language=false
-*.css linguist-language=false
+*.css linguist-language=true
 *.py linguist-vendored=false
 *.js linguist-vendored=true
